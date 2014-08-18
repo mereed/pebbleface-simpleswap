@@ -1,0 +1,75 @@
+{
+    "appKeys": {
+        "fonttwo": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "QuickFox",
+    "longName": "simpleswap",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9: ]",
+                "file": "fonts/FreeSans.ttf",
+                "name": "FONT_FREESANS_52",
+                "trackingAdjust": -2,
+                "type": "font"
+            },
+            {
+                "file": "fonts/FreeSans.ttf",
+                "name": "FONT_FREESANS_24",
+                "trackingAdjust": 1,
+                "type": "font"
+            },
+            {
+                "file": "fonts/FreeSans.ttf",
+                "name": "FONT_FREESANS_20",
+                "type": "font"
+            },
+            {
+                "file": "images/menu_icon_simplicity.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "fonts/CRYSRG__.TTF",
+                "name": "FONT_CRYSRG_22",
+                "trackingAdjust": -1,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:. ]",
+                "file": "fonts/CRYSRG__.TTF",
+                "name": "FONT_CRYSRG_54",
+                "trackingAdjust": -5,
+                "type": "font"
+            },
+            {
+                "file": "fonts/CRYSRG__.TTF",
+                "name": "FONT_CRYSRG_28",
+                "trackingAdjust": -1,
+                "type": "font"
+            },
+            {
+                "file": "images/phone-lost.png",
+                "name": "IMAGE_DISCONNECT",
+                "type": "png"
+            },
+            {
+                "file": "images/phone.png",
+                "name": "IMAGE_CONNECT",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "simpleswap",
+    "uuid": "40c789d6-c31d-441d-813f-145ac19aed70",
+    "versionCode": 2,
+    "versionLabel": "1.7",
+    "watchapp": {
+        "watchface": true
+    }
+}
